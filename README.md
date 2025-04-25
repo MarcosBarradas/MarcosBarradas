@@ -10,6 +10,11 @@ Estou no quarto período de Engenharia de software com previsão de término em 
 
 ### Formação Complementar
 
+**ORIGAMID - Escola especialista em Web Design, UI/UX, e front End avaliada como 5/5 estrelas com uma base de 50 mil alunos.**
+
+Conclui *50 horas* de **UI/UX, html e css.**
+
 **ALURA -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
 
 Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
+
