@@ -4,4 +4,4 @@
 
 ### formação superior: 
 
-**uninter** 
+**uninter - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a melhor faculdade pelo reclame aqui.
