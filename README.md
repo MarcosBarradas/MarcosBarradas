@@ -14,6 +14,8 @@ Nesses 2 anos eu estudei em escolas de altíssima reputação que ensinam técni
 
 Estou no quarto período de Engenharia de software com previsão de término em 2027.
 
+## 
+
 
 
 ### Formação Complementar
