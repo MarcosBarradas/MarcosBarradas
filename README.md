@@ -23,3 +23,4 @@ Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, java
 Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 horas)* para se tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBarradas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
