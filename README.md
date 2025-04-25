@@ -24,15 +24,20 @@ Estou no quarto período de Engenharia de software com previsão de término em 
 
 Conclui *50 horas* de **UI/UX, html e css.**
 
+## 
+
 
 **🟦 ALURA -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
 
 Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
 
+## 
 
 **🔵 instituto PROA - parceira de startups e gigantes como: P&G, Google e Amazon**  
 
 Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 horas)* para se tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL**
+
+## 
 
 
 ## 🛠 Stack Principal  
