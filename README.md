@@ -18,3 +18,6 @@ Conclui *50 horas* de **UI/UX, html e css.**
 
 Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
 
+**instituto PROA - parceira de startups e gigantes como: P&G, Google e Amazon**  
+
+Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 horas)* para se tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL**
