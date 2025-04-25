@@ -24,3 +24,4 @@ Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 h
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBarradas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosBarradas&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
