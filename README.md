@@ -4,7 +4,7 @@
 
 ### formação superior: 
 
-**uninter - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a *melhor faculdade pelo reclame aqui*.
+**@uninter - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a *melhor faculdade pelo reclame aqui*.
 
 Estou no quarto período de Engenharia de software com previsão de término em 2027.
 
