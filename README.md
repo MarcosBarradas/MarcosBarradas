@@ -7,3 +7,9 @@
 **uninter - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a *melhor faculdade pelo reclame aqui*.
 
 Estou no quarto período de Engenharia de software com previsão de término em 2027.
+
+### formação complementar
+
+**Alura -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
+
+Conclui mais de 250 horas de curso em tecnologias como html, css, sass, javascript, typescript e JAVA.
