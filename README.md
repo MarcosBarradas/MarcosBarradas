@@ -6,25 +6,34 @@ Nesses 2 anos eu estudei em escolas de altíssima reputação que ensinam técni
 
 ## 
 
+
+
 ### Formação Superior: 
 
 **🔷 UNINTER - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a *melhor faculdade pelo reclame aqui*.
 
 Estou no quarto período de Engenharia de software com previsão de término em 2027.
 
+
+
 ### Formação Complementar
+
+
 
 **🟣 ORIGAMID - Escola especialista em Web Design, UI/UX, e front End avaliada como 5/5 estrelas com uma base de 50 mil alunos.**
 
 Conclui *50 horas* de **UI/UX, html e css.**
 
+
 **🟦 ALURA -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
 
 Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
 
+
 **🔵 instituto PROA - parceira de startups e gigantes como: P&G, Google e Amazon**  
 
 Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 horas)* para se tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL**
+
 
 ## 🛠 Stack Principal  
 
