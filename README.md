@@ -4,6 +4,9 @@
 
 Nesses 2 anos eu estudei em escolas de altíssima reputação que ensinam técnicas avançadas tanto de design quanto de programação, mas é uma área complexa e repleta de novidades, então estou sempre de mente aberta para aprender coisas novas.  Obrigado pelo seu tempo lendo meu resumo.
 
+*Por mais que codar seja importante, o maior desafio dos desenvolvedor é a lógica e as regras de negócio.*
+- Jailson Costa dos Santos
+
 ## 
 
 
