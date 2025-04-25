@@ -35,4 +35,6 @@ Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 h
 ### Banco de Dados & Design  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
+
+### Status do github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosBarradas&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
