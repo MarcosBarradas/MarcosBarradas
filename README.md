@@ -12,4 +12,4 @@ Estou no quarto período de Engenharia de software com previsão de término em 
 
 **ALURA -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
 
-Conclui mais de 250 horas de curso em tecnologias como html, css, sass, javascript, typescript e JAVA.
+Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
