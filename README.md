@@ -1,4 +1,4 @@
-# Olá, recrutador!
+# Olá!
 
 ## Me chamo Marcos, tenho 22 anos, estudo programação há 2 anos e tenho 5 meses de experiência com desenvolvimento e manutenção de sites.
 
