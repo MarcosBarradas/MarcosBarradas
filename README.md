@@ -44,9 +44,9 @@ Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, java
 
 ## 
 
-**🔵 instituto PROA - parceira de startups e gigantes como: P&G, Google e Amazon**  
+**🔵 instituto PROA/Senac - parceira de startups e gigantes como: P&G, Google e Amazon**  
 
-Curso o PROPROFISSÂO. Curso profissionalizante com duração de *6 meses (440 horas)* para me tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL.**
+Curso de Desenvolvimento web - java - com duração de *6 meses (440 horas)* para me tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL.**
 
 *No PROA que aprendi não somente a codar, mas reforcei extremamente a minha lógica, pois segundo o que meu professor dizia: O maior desafio não é codar, mas a lógica e entender as regras de negócio.*
 
