@@ -1,63 +1,38 @@
-# Olá!
+MAS Logo
+Microsoft Activation Scripts (MAS)
+Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
-## Me chamo Marcos, tenho 23 anos, estudo programação há 3 anos.
+How to Activate Windows / Office / Extended Security Updates (ESU)?
+Method 1 - PowerShell ❤️
+Click the Start Menu, type PowerShell, and open it.
 
-Nesses 2 anos eu estudei em escolas de altíssima reputação que ensinam técnicas avançadas tanto de design quanto de programação, mas é uma área complexa e repleta de novidades, então estou sempre de mente aberta para aprender coisas novas.  Obrigado pelo seu tempo lendo meu resumo.
+Copy and paste the code below and press Enter.
 
-*"Por mais que codar seja importante, o maior desafio dos desenvolvedor é a lógica e as regras de negócio."*
+For Windows 8.1, 10 and 11:
+irm https://get.activated.win | iex
+If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):
+iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+Script not launching? Use the below-listed Method 2.
+In the menu that appears, type the number corresponding to one of the Green options.
 
-\- Jailson Costa dos Santos
+Method 2 - Traditional (Windows Vista and later)
+Download the script:
+MAS_AIO.cmd (Direct script)
+MAS_AIO.zip (If the direct script is blocked by your browser)
+Run the MAS_AIO.cmd file.
+In the menu that appears, type the number corresponding to one of the Green options.
+Tip
 
-## 
+Some ISPs/DNS providers block access to our domains. You can bypass this by enabling DNS-over-HTTPS (DoH) in your browser.
+Having trouble? Visit our troubleshooting page or raise an issue on GitHub.
+Note
 
+The irm command in PowerShell downloads a script from a specified URL, and the iex command executes it.
+Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
+Be cautious of third parties spreading malware disguised as MAS by altering the URL in the PowerShell command.
+Homepage - https://massgrave.dev/
+1.1 1.2 1.3 1.4 1.5 1.6 1.7
 
-
-### Formação Superior: 
-
-**🔷 UNINTER - insituição de ensino superior**  vencedora 11 anos seguidos do prêmio Top Educação como **Melhor faculdade EAD,** nos últimos 5 anos foi considerada como a *melhor faculdade pelo reclame aqui*.
-
-Estou no quarto período de Engenharia de software com *previsão de término em 2027*.
-
-## 
-
-
-
-### Formação Complementar
-
-
-
-
-
-
-
-
-
-## 
-
-
-**🟦 ALURA -  Maior escola de tecnologia do Brasil, eleita como uma das 150 empresas de educação mais transformadoras do mundo.** 
-
-Conclui mais de *250 horas* de curso em tecnologias como **html, css, sass, javascript, typescript e JAVA.**
-
-## 
-
-**🔵 instituto PROA/Senac - parceira de startups e gigantes como: P&G, Google e Amazon**  
-
-Curso de Desenvolvimento web - java - com duração de *6 meses (440 horas)* para me tornar **Full Stack** com tecnologias como: **Figma, html, css, javascript, React, JAVA, SpringBoot, MySQL.**
-
-*No PROA que aprendi não somente a codar, mas reforcei extremamente a minha lógica, pois segundo o que meu professor dizia: O maior desafio não é codar, mas a lógica e entender as regras de negócio.*
-
-## 
-
-
-## 🛠 Stack Principal  
-
-### Linguagens & Frameworks 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-
-## 
-
-### Banco de Dados & Design  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)   
-
+Latest Version: 3.10
+Release date: 28-Jan-2026
 
